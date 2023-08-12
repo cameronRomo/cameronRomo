@@ -2,6 +2,7 @@
 <h1>I'm Cameron Romo, a Full Stack Engineer, with a passion for coding to create resilience.</h1>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJzMGx5cDdkM2JidnJtYmlqcGdpdDZkMGptMTRvdzRvM2ZpYnVyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hu9xj9UtxpoY3oytsh/giphy.gif" width="200px" height="200px" alt ='Mug being filled with binary' align='right'/>
 [![Linkedin Badge](https://img.shields.io/badge/-cameron_romo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/CameronRomo)](https://www.linkedin.com/in/CameronRomo)[![Gmail Badge](https://img.shields.io/badge/-cromo1225@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cromo1225@gmail.com)](mailto:cromo1225@gmail.com)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cameronRomo" alt="cameronRomo" /> </p>
 <p>"If you know the way broadly you will see it in all things"</p>
 <em>~ Miyamoto Musashi</em>
