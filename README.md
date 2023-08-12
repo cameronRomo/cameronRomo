@@ -1,5 +1,5 @@
 <h1>Welcome! Be careful not to step on the Legos&#174;.</h1>
-<p>I'm Cameron, a Full Stack Engineer, with a passion for coding to create resilience.</p>
+I'm Cameron, a Full Stack Engineer, with a passion for coding to create resilience.
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJzMGx5cDdkM2JidnJtYmlqcGdpdDZkMGptMTRvdzRvM2ZpYnVyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hu9xj9UtxpoY3oytsh/giphy.gif" width="200px" height="200px" alt='Mug being filled with binary' align='right'/>
 <a href="https://www.linkedin.com/in/CameronRomo/"><img src="https://img.shields.io/badge/-cameron_romo-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 <a href="mailto:cromo1225@gmail.com"><img src="https://img.shields.io/badge/-cromo1225@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" /></a>
