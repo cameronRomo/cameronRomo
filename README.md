@@ -9,7 +9,7 @@ I'm Cameron, a Full Stack Engineer, with a passion for coding to create resilien
 > If you know the way broadly you will see it in all things.<br>
 > <em>~ Miyamoto Musashi</em>
 
-## :computer: Technologies I Love
+## :computer: Technologies I've Loved Using
 | Front End | Back End | Database | Mobile |
 |---|---|---|---|
 | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> | <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> | <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> |
