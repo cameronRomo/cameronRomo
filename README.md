@@ -1,4 +1,4 @@
-# Hello, thanks for dropping by!
+# Hello, thanks for stopping by!
 I'm Cameron, a Full Stack Engineer, with a passion for coding to create resilience.
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJzMGx5cDdkM2JidnJtYmlqcGdpdDZkMGptMTRvdzRvM2ZpYnVyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hu9xj9UtxpoY3oytsh/giphy.gif" width="200px" height="200px" alt='Mug being filled with binary' align='right'/>
